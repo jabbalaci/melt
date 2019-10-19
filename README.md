@@ -11,7 +11,7 @@ Screenshots
 ===========
 
 <div align="center">
-  <img width="80%" src="assets/dark.png" alt="dark background"><br>
+  <img src="assets/dark.png" alt="dark background"><br>
   <i>Dark background</i>
 </div>
 
@@ -19,7 +19,7 @@ Screenshots
 <br>
 
 <div align="center">
-  <img width="80%" src="assets/light.png" alt="light background"><br>
+  <img src="assets/light.png" alt="light background"><br>
   <i>Light background</i>
 </div>
 
