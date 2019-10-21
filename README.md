@@ -73,3 +73,8 @@ made for merging and showing diffs, it is just a file
 viewer with two panels. A great advantage of melt is that
 the two files can have different extensions and thus
 they will be colored differently.
+
+Links
+=====
+
+* Reddit discussion ([link](https://old.reddit.com/r/commandline/comments/dkx5xb/melt_a_visual_catlike_file_viewer_with_syntax/))
