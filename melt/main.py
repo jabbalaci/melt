@@ -58,7 +58,7 @@ class PlainFile:
                 self.idx_of_too_long_lines.add(idx)
 
     def clean_lines(self, lines: List[str]) -> List[str]:
-        lines = [line.rstrip() for line in lines]
+        lines = [line.rstrip().expandtabs() for line in lines]
         while (len(lines) > 0) and (lines[-1] == ""):
             lines.pop()
         #
